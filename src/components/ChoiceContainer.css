@@ -1,0 +1,7 @@
+.choice-container {
+    height: 100%;
+    display: grid;
+    grid-template: 1fr / repeat(2, 1fr);
+    gap: 10px;
+    padding: 0 10%;
+}
